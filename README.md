@@ -1,6 +1,7 @@
 
 Power Bi dashboard:
-<img width="1571" height="863" alt="Screenshot 2026-09-03 114448" src="https://github.com/user-attachments/assets/c6245d72-11b4-4b7a-a89c-b622b5f42cd3" />
+<img width="1524" height="808" alt="image" src="https://github.com/user-attachments/assets/8f1e1429-5270-429c-8030-3c721cf377e5" />
+
 
 Cleaned Data:
 <img width="1852" height="416" alt="Screenshot 2026-09-03 114759" src="https://github.com/user-attachments/assets/8b07759d-70b9-43a4-bd2c-3a44b3ca9b3e" />
